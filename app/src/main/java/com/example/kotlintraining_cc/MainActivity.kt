@@ -1,19 +1,33 @@
 package com.example.kotlintraining_cc
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
+import android.R
+import android.view.View
+import android.widget.Button
+
+import android.widget.RelativeLayout
+import android.widget.TextView
+
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        setContentView(R.layout.simple_list_item_activated_1)
 
-        //Bundle containing previous frozen state
-        setContentView(R.layout.activity_main)
+//        var textView = findViewById<TextView>(R.id.here)
 
         //The content view pointing to the id of layout
         //file activity_main.xml
         val toast = Toast.makeText(applicationContext, "onCreate function called", Toast.LENGTH_LONG).show()
+
+
+//        textView.setOnClickListener(){
+//            intent = Intent(this, UIWidget::class.java)
+//            startActivity(intent)
+//        }
     }
 
     override fun onStart() {
