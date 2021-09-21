@@ -11,7 +11,6 @@ import android.widget.Button
 import android.widget.RelativeLayout
 import android.widget.TextView
 
-
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -22,7 +21,6 @@ class MainActivity : AppCompatActivity() {
         //The content view pointing to the id of layout
         //file activity_main.xml
         val toast = Toast.makeText(applicationContext, "onCreate function called", Toast.LENGTH_LONG).show()
-
 
 //        textView.setOnClickListener(){
 //            intent = Intent(this, UIWidget::class.java)
