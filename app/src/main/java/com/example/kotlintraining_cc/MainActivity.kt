@@ -15,7 +15,7 @@ import android.widget.TextView
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.simple_list_item_activated_1)
+        setContentView(R.layout.activity_list_item)
 
 //        var textView = findViewById<TextView>(R.id.here)
 
