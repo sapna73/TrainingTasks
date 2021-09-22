@@ -3,8 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/USER/Desktop/KotlinGit/KotlinTraining_CC/app/src/main/res/layout/activity_2.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/USER/Desktop/KotlinGit/KotlinTraining_CC/app/src/main/res/layout/activity_items.xml" value="0.1" />
         <entry key="..\:/Users/USER/Desktop/KotlinGit/KotlinTraining_CC/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/USER/Desktop/KotlinGit/KotlinTraining_CC/app/src/main/res/layout/activity_uiwidget.xml" value="0.25" />
+        <entry key="..\:/Users/USER/Desktop/KotlinGit/KotlinTraining_CC/app/src/main/res/layout/content_items.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/Desktop/KotlinGit/KotlinTraining_CC/app/src/main/res/layout/fragment_gallery.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/Desktop/KotlinGit/KotlinTraining_CC/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/Desktop/KotlinGit/KotlinTraining_CC/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/Desktop/KotlinGit/KotlinTraining_CC/app/src/main/res/layout/items_list_recyclerview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/Desktop/KotlinGit/KotlinTraining_CC/app/src/main/res/layout/nav_header_items.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/USER/Desktop/KotlinGit/KotlinTraining_CC/app/src/main/res/layout/new_app_widget.xml" value="0.20416666666666666" />
       </map>
     </option>

@@ -10,6 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KotlinTraining_CC">
         <activity
+            android:name=".Activity2"
+            android:exported="true" />
+        <activity
+            android:name=".ItemsActivity"
+            android:exported="true"
+            android:label="@string/title_activity_items"
+            android:theme="@style/Theme.KotlinTraining_CC.NoActionBar" />
+        <activity
             android:name=".UIWidget"
             android:exported="true" />
         <activity
