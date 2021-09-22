@@ -48,6 +48,17 @@
         android:backgroundTint="#ffd500 "
         android:textColor="@color/white"/>
 
+        <Button
+            android:id="@+id/btn1Id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Material Buttons"
+            style="@style/MaterialAlertDialog.MaterialComponents.Title.Icon"
+            app:icon="@android:drawable/ic_dialog_map"
+            android:backgroundTint="#ffd500 "
+            android:textColor="@color/white"/>
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -231,10 +242,28 @@
         android:textColor="@color/black"
         android:textStyle="bold"/>
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Seek Bar"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:layout_margin="16dp" />
+
         <SeekBar
             android:id="@+id/seekBar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Progress Bar"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:layout_margin="16dp" />
 
         <ProgressBar
             android:id="@+id/progressBar"
@@ -243,7 +272,5 @@
             android:layout_margin="16dp"/>
 
     </LinearLayout>
-
-
 
 </ScrollView>
